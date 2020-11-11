@@ -10,54 +10,57 @@ docs:
     children:
       - title: Welcome
         url: /
-      - title: Why run a Camera?
+      - title: "🚧 Why run a Camera?"
         url: /docs/why-run-a-camera/
-      - title: Your rights on the Road
-        url: /docs/your-rights/
-      - title: Frequently Asked Questions (FAQ)
+      - title: "🚧 Your Rights on the Road"
+        url: /docs/your-rights-on-the-road/
+      - title: "🚧 Frequently Asked Questions"
         url: /docs/faq/
   - title: Your Camera
     children:
-      - title: Quick Start
+      - title: "🚧 Quick Start"
         url: /docs/camera-quick-start/
-      - title: Resolution, Framerate, & FOV
+      - title: "🚧 Resolution, Framerate, & FOV"
         url: /docs/resolution-framerate-fov/
-      - title: Choosing a Camera
+      - title: "🚧 Choosing a Camera"
         url: /docs/choosing-a-camera/
-      - title: Mounting
+      - title: "🚧 Mounting"
         url: /docs/mounting/
-      - title: Battery Life
+      - title: "🚧 Battery Life"
         url: /docs/battery-life/
-      - title: GPS & Timestamps
+      - title: "🚧 GPS & Timestamps"
         url: /docs/gps-and-timestamps/
   - title: Out and About
     children:
-      - title: Starting and Stopping your Camera
+      - title: "🚧 Starting and Stopping your Camera"
         url: /docs/starting-and-stopping/
-      - title: What to Do in an RTC
-        url: /docs/what-to-do-in-an-rtc/
-      - title: What to Do in other Incidents
-        url: /docs/what-to-do-in-an-incident/
-      - title: Managing Camera Batteries
+      - title: "🚧 What to Do after an RTC"
+        url: /docs/what-to-do-after-an-rtc/
+      - title: "🚧 What to Do after other Incidents"
+        url: /docs/what-to-do-after-an-incident/
+      - title: "🚧 Managing Camera Batteries"
         url: /docs/managing-batteries/
-      - title: Cameras as a Crime Deterrent
-        url: /docs/as-a-deterrent/
+      - title: "🚧 Cameras as Crime Deterrents"
+        url: /docs/cameras-as-crime-deterrents/
   - title: Reviewing Footage
     children:
-      - title: Offences & The Road Traffic Act
+      - title: "🚧 Offences & The Road Traffic Act"
         url: /docs/offences/
-      - title: Reviewing Your Footage
+      - title: "🚧 Reviewing Your Footage"
         url: /docs/reviewing-your-footage/
-      - title: Taking Notes
-        url: /docs/taking-notes/
-      - title: Making Clips
-        url: /docs/making-clips/
+      - title: "🚧 Making Video Clips"
+        url: /docs/making-video-clips/
   - title: Submitting to The Met
     children:
-      - title: Report a Traffic Incident (<10 days)
-      - title: Report a Collision (<24 hours)
+      - title: "🚧 Report a Traffic Incident (<10 days)"
+        url: /docs/report-a-traffic-incident/
+      - title: "🚧 Report a Collision (<24 hours)"
+        url: /docs/report-a-collision/
   - title: Aftermath
     children: 
-      - title: Email Responses from the Met
-      - title: Attending Court
-      - title: Posting on Social Media
+      - title: "🚧 Email Responses from the Met"
+        url: /docs/email-responses/
+      - title: "🚧 Attending Court"
+        url: /docs/attending-court/
+      - title: "🚧 Posting on Social Media"
+        url: /docs/posting-on-social-media/
