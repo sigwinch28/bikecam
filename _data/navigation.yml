@@ -16,6 +16,8 @@ docs:
         url: /docs/your-rights-on-the-road/
       - title: "🚧 Frequently Asked Questions"
         url: /docs/faq/
+      - title: "🚧 Cameras as Crime Deterrents"
+        url: /docs/cameras-as-crime-deterrents/
   - title: Your Camera
     children:
       - title: "🚧 Quick Start"
@@ -38,10 +40,6 @@ docs:
         url: /docs/what-to-do-after-an-rtc/
       - title: "🚧 What to Do after other Incidents"
         url: /docs/what-to-do-after-an-incident/
-      - title: "🚧 Managing Camera Batteries"
-        url: /docs/managing-batteries/
-      - title: "🚧 Cameras as Crime Deterrents"
-        url: /docs/cameras-as-crime-deterrents/
   - title: Reviewing Footage
     children:
       - title: "🚧 Offences & The Road Traffic Act"

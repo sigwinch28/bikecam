@@ -1,3 +1,0 @@
----
-title: "🚧 Managing Camera Batteries"
----
