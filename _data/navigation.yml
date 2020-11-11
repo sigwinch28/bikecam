@@ -1,0 +1,63 @@
+main:
+  - title: "FAQ"
+    url: /docs/faq/
+  - title: "Met Police Submission Form"
+    url: https://www.met.police.uk/dashcam
+  
+
+docs:
+  - title: London Bikecam Guide
+    children:
+      - title: Welcome
+        url: /
+      - title: Why run a Camera?
+        url: /docs/why-run-a-camera/
+      - title: Your rights on the Road
+        url: /docs/your-rights/
+      - title: Frequently Asked Questions (FAQ)
+        url: /docs/faq/
+  - title: Your Camera
+    children:
+      - title: Quick Start
+        url: /docs/camera-quick-start/
+      - title: Resolution, Framerate, & FOV
+        url: /docs/resolution-framerate-fov/
+      - title: Choosing a Camera
+        url: /docs/choosing-a-camera/
+      - title: Mounting
+        url: /docs/mounting/
+      - title: Battery Life
+        url: /docs/battery-life/
+      - title: GPS & Timestamps
+        url: /docs/gps-and-timestamps/
+  - title: Out and About
+    children:
+      - title: Starting and Stopping your Camera
+        url: /docs/starting-and-stopping/
+      - title: What to Do in an RTC
+        url: /docs/what-to-do-in-an-rtc/
+      - title: What to Do in other Incidents
+        url: /docs/what-to-do-in-an-incident/
+      - title: Managing Camera Batteries
+        url: /docs/managing-batteries/
+      - title: Cameras as a Crime Deterrent
+        url: /docs/as-a-deterrent/
+  - title: Reviewing Footage
+    children:
+      - title: Offences & The Road Traffic Act
+        url: /docs/offences/
+      - title: Reviewing Your Footage
+        url: /docs/reviewing-your-footage/
+      - title: Taking Notes
+        url: /docs/taking-notes/
+      - title: Making Clips
+        url: /docs/making-clips/
+  - title: Submitting to The Met
+    children:
+      - title: Report a Traffic Incident (<10 days)
+      - title: Report a Collision (<24 hours)
+  - title: Aftermath
+    children: 
+      - title: Email Responses from the Met
+      - title: Attending Court
+      - title: Posting on Social Media
