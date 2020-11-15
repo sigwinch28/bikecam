@@ -38,7 +38,7 @@ docs:
         url: /docs/starting-and-stopping/
       - title: "🚧 What to Do after an RTC"
         url: /docs/what-to-do-after-an-rtc/
-      - title: "🚧 What to Do after other Incidents"
+      - title: "What to Do after an Incident"
         url: /docs/what-to-do-after-an-incident/
   - title: Reviewing Footage
     children:
