@@ -21,6 +21,8 @@ jobs:
         uses: limjh16/jekyll-action-ts@v2
         with:
           enable_cache: true
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: ${{ runner.os }}-gems-
       - name: 🚀 deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
