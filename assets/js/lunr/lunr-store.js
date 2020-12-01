@@ -35,7 +35,7 @@ var store = [{
         "url": "https://sigwinch28.github.io/bikecam/docs/email-responses/",
         "teaser": null
       },{
-        "title": "🚧 Frequently Asked Questions",
+        "title": "Frequently Asked Questions",
         "excerpt":"Glossary   There’s a kind of shorthand amongst cyclists in London (and elsewhere!) to describe some of the incidents they’re involved in.   Here are some of the terms you may see on social media.   Left Hook   A driver failing to give way when turning left across your lane or path.   MGIF   Must Get In Front   A driver who overtakes at speed, only to soon get stuck in slow moving traffic or at a red light.   Right Hook   A driver failing to give way when turning right across your lane or path.   SMIDSY   Sorry Mate! I Didn’t See You   When a driver fails to see you, despite you being clearly visible to them, or when they should have given way.  ","categories": [],
         "tags": [],
         "url": "https://sigwinch28.github.io/bikecam/docs/faq/",
