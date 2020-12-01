@@ -54,6 +54,9 @@ Pick the type of vehicle involved in the incident.
 When choosing the _type of vehicle_ don't worry if you don't know the engine capacity of a moped/motorbike or the maximum gross weight of a goods vehicle.
 There are options for "don't know".
 
+You can check whether a vehicle is a registered private hire vehicle (PHV) via [TfL's private hire website](https://tph.tfl.gov.uk/TfL/SearchVehicleLicence.page?org.apache.shale.dialog.DIALOG_NAME=TPHVehicleLicence&Param=lg2.TPHVehicleLicence&menuId=7).
+You'll probably want to enter the registration (VRM) _without spaces_.
+
 ### Incident details
 
 Specify the date and time of the incident.
