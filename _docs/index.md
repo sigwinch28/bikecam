@@ -4,7 +4,7 @@ permalink: /
 toc: false
 ---
 
-Welcome to the London Bikecam Guide :wave:
+Welcome to the London Bikecam Guide 👋
 
 This site is intended to serve as a comprehensive guide for anyone who wants to use a video camera while cycling in Greater London.
 
@@ -19,7 +19,7 @@ If you make reports, you're also likely to get [responses from the Met]({% link 
 
 This site is very new and a work-in-progress. Any contributions and suggestions are welcome.
 
-For now, please look at the headings on the left and suggest some content :blush:.
+For now, please look at the headings on the left and suggest some content 😊.
 
 ## Contributing
 
@@ -27,4 +27,4 @@ If you would like to suggest new content, please [open an issue on the GitHub re
 Alternatively, if you'd like to contribute some content directly, you can fork the repo and open a pull request.
 
 If you don't know what any of that means, that's okay too.
-[get in contact with me on twitter](https://twitter.com/intent/tweet?text=%40sigwinch28) if you'd like to contribute :smile:.
+[get in contact with me on twitter](https://twitter.com/intent/tweet?text=%40sigwinch28) if you'd like to contribute 😄.

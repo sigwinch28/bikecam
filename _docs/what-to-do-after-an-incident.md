@@ -47,9 +47,9 @@ If you can't -- or don't feel safe trying to -- reach the button while you're cy
 You might have several hours of video footage and you probably don't want to watch all of it in fast-forward.
 By clicking the bookmark button you can skip through all of your footage to exactly where the incidents occurred, saving you a huge amount of time when reviewing footage.
 
-## 4. Enjoy the rest of your ride :smile:
+## 4. Enjoy the rest of your ride 😄
 
 Let the anger, fear, and adrenaline wear off.
 There's nothing else you can do right now which will make a difference.
 
-Go back to enjoying the ride :smile:
+Go back to enjoying the ride 😄

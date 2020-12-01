@@ -54,6 +54,13 @@ Pick the type of vehicle involved in the incident.
 When choosing the _type of vehicle_ don't worry if you don't know the engine capacity of a moped/motorbike or the maximum gross weight of a goods vehicle.
 There are options for "don't know".
 
+#### Checking Vehicle Details
+
+You can check the make, colour, and type of vehicle on the [DVLA website](https://www.gov.uk/get-vehicle-information-from-dvla) by entering the vehicle's registration.
+This is a useful way of double-checking that you are reporting the right vehicle because you can verify the make and colour of the vehicle.
+
+#### Checking PHVs
+
 You can check whether a vehicle is a registered private hire vehicle (PHV) via [TfL's private hire website](https://tph.tfl.gov.uk/TfL/SearchVehicleLicence.page?org.apache.shale.dialog.DIALOG_NAME=TPHVehicleLicence&Param=lg2.TPHVehicleLicence&menuId=7).
 You'll probably want to enter the registration (VRM) _without spaces_.
 
@@ -108,11 +115,20 @@ If you save the dates, times, or registration plates in the filenames of your vi
 ### Sign
 
 You will be asked if you're willing to [attend court]({% link _docs/attending-court.md %}).
-Be aware that if you pick "no" and/or refuse to appear as a witness if requested to do so, this may affect the prosecution.
-Only pick "yes" if you are comfortable with attending court should you be requested to attend.
+If you pick "yes", you're stating that you're willing to appear at court as a witness if necessary.
+If you pick "no" and/or refuse to appear as a witness, the police and CPS _might_ decide not to prosecute in case the driver pleads "not guilty".
+
+
+It is extremely unlikely that you will be asked to attend court.
+You will only be asked to attend when both the Police and the Crown Prosecution Service (CPS) agree on taking the driver to court and when the driver pleads "not guilty".
+I have never been asked to attend court and people who have been making reports for upwards of a decade have only been asked to attend court a handful of times:
+
+{% twitter https://twitter.com/cyclegaz/status/1333586686694088706 %}
 
 Once you submit the form you'll be given a reference number.
 Save that number somewhere for your records.
 You'll also be given the opportunity to download a copy of your report, which you may want to keep.
 
-After this, you're all done :grin:
+After this, you're all done.
+
+Get back out there and enjoy yourself 🚲

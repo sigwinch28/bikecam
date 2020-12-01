@@ -84,7 +84,7 @@ In no particular order, let's clear some up.
 
 Use of dedicated cycle lanes is not compulsory.
 They _can_ make your journey safer, but some of them make your journey more dangerous.
-Use your own jugement and discretion :smile:
+Use your own jugement and discretion 😄
 
 You can ride on the carriageway of nearly any road, except on motorways, or where cycling is explicitly prohibited.
 You will know if you're not allowed to cycle on a road because it will have one of the two following signs:
@@ -129,7 +129,7 @@ It's up to you if you wear one.
 
 You don't have to wear high-visibility or reflective clothing.
 You can wear a disonaur onesie, a lovely summer dress, or anything, really.
-Some people [even cycle naked](https://www.cyclinguk.org/group/world-naked-bike-ride).
+Some people [even cycle naked](https://wnbrlondon.uk/).
 
 ### You don't _need_ lights during the day
 

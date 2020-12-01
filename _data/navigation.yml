@@ -6,9 +6,9 @@ main:
   
 
 docs:
-  - title: London Bikecam Guide
+  - title: 👋 London Bikecam Guide
     children:
-      - title: Welcome
+      - title: Welcome 
         url: /
       # - title: "🚧 Why run a Camera?"
       #   url: /docs/why-run-a-camera/
@@ -18,7 +18,7 @@ docs:
       #   url: /docs/faq/
       # - title: "🚧 Cameras as Crime Deterrents"
       #   url: /docs/cameras-as-crime-deterrents/
-  # - title: Your Camera
+  # - title: 📷 Your Camera
   #   children:
   #     - title: "🚧 Quick Start"
   #       url: /docs/camera-quick-start/
@@ -32,7 +32,7 @@ docs:
   #       url: /docs/battery-life/
   #     - title: "🚧 GPS & Timestamps"
   #       url: /docs/gps-and-timestamps/
-  - title: Out and About
+  - title: 🚲 Out and About 
     children:
       # - title: "🚧 Starting and Stopping your Camera"
       #   url: /docs/starting-and-stopping/
@@ -40,7 +40,7 @@ docs:
       #   url: /docs/what-to-do-after-an-rtc/
       - title: "What to Do after an Incident"
         url: /docs/what-to-do-after-an-incident/
-  # - title: Reviewing Footage
+  # - title: 🎞️ Reviewing Footage
   #   children:
   #     - title: "🚧 Offences & The Road Traffic Act"
   #       url: /docs/offences/
@@ -48,13 +48,13 @@ docs:
   #       url: /docs/reviewing-your-footage/
   #     - title: "🚧 Making Video Clips"
   #       url: /docs/making-video-clips/
-  - title: Submitting to The Met
+  - title: 👮 Submitting to The Met
     children:
       - title: "Report a Driving Offence (<10 days)"
         url: /docs/report-a-driving-offence/
   #     - title: "🚧 Report a Collision (<24 hours)"
   #       url: /docs/report-a-collision/
-  # - title: Aftermath
+  # - title: ⚖️ Aftermath
   #   children: 
   #     - title: "🚧 Email Responses from the Met"
   #       url: /docs/email-responses/
