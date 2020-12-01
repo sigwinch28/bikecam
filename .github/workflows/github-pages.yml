@@ -6,18 +6,23 @@ on:
       - master
 
 jobs:
-  github-pages:
+  jekyll:
     runs-on: ubuntu-16.04
     steps:
-      - uses: actions/checkout@v2
+      - name: 📂 setup
+        uses: actions/checkout@v2
         with:
           lfs: true
-      - uses: actions/cache@v1
+      - name: 💎 setup ruby
+        uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-      - uses: helaili/jekyll-action@2.0.4
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+          ruby-version: 2.7.2
+      - name: 🔨 install dependencies & build site
+        uses: limjh16/jekyll-action-ts@v2
+        with:
+          enable_cache: true
+      - name: 🚀 deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.JEKYLL_PAT }}
+          publish_dir: ./_site
