@@ -10,7 +10,7 @@ Some of them may be angry drivers shouting at you for exercising your legal righ
 The gist of it is that cyclists have the same priority and rights as motor vehicles.
 This means other road users must give way to you at T-junctions, roundabouts, and in multi-lane traffic just as if you were driving a car.
 
-There are two things you should do:
+There are some things you should do:
 1. [Read the Highway Code](#read-the-highway-code)
 1. [Know your Rights](#know-your-rights)
 1. [Don't fall victim to common misconceptions](#clearing-up-common-misconceptions)
