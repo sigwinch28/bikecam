@@ -13,7 +13,7 @@ You should _absolutely not_ wait this long.
 You should submit a report as soon as is practical to ease pressure on the police staff reviewing submissions.
 
 The form allows you to upload your evidence (i.e. video footage) directly on the Met's website.
-There's no need to upload the footage anywhere else [unless the offence occurred in the City of London](#upload-your-footage).
+There's no need to upload the footage anywhere else [unless the offence occurred in the City of London](#upload-your-evidence).
 
 ## Steps in the form
 
