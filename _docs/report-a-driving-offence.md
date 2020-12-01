@@ -61,8 +61,8 @@ You'll probably want to enter the registration (VRM) _without spaces_.
 
 Specify the date and time of the incident.
 If you have GPS timestamps, use those.
-Remember that if the offence occurred when the UK was in summer time (BST) you will need to add 1 hour to any time from your camera if it is marked as UTC.
-If you're using your camera's own timestamps (e.g. from the video file's metadata or from on an on-screen timestamp) make sure these are correct.
+Remember that if the offence occurred when the UK was in summer time (BST) you will need to add 1 hour to any time from your camera that is marked as UTC.
+If you're using your camera's own timestamps (e.g. from the video file's metadata or an on-screen timestamp) make sure these are correct.
 
 Tick all the offences that you believe your report relates to.
 For example, if you were close passed by a driver who ran a red light then you might pick both "driving through a red light" and "cycling close pass".
