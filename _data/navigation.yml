@@ -48,10 +48,10 @@ docs:
   #       url: /docs/reviewing-your-footage/
   #     - title: "🚧 Making Video Clips"
   #       url: /docs/making-video-clips/
-  # - title: Submitting to The Met
-  #   children:
-  #     - title: "🚧 Report a Traffic Incident (<10 days)"
-  #       url: /docs/report-a-traffic-incident/
+  - title: Submitting to The Met
+    children:
+      - title: "Report a Driving Offence (<10 days)"
+        url: /docs/report-a-driving-offence/
   #     - title: "🚧 Report a Collision (<24 hours)"
   #       url: /docs/report-a-collision/
   # - title: Aftermath
