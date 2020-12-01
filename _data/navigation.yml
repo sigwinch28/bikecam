@@ -14,8 +14,8 @@ docs:
       #   url: /docs/why-run-a-camera/
       - title: "Your Rights on the Road"
         url: /docs/your-rights-on-the-road/
-      # - title: "🚧 Frequently Asked Questions"
-      #   url: /docs/faq/
+      - title: "Frequently Asked Questions"
+        url: /docs/faq/
       # - title: "🚧 Cameras as Crime Deterrents"
       #   url: /docs/cameras-as-crime-deterrents/
   # - title: 📷 Your Camera

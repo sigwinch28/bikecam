@@ -1,5 +1,5 @@
 ---
-title: "🚧 Frequently Asked Questions"
+title: "Frequently Asked Questions"
 toc: true
 ---
 
