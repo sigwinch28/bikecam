@@ -28,4 +28,4 @@ A driver failing to give way when turning right across your lane or path.
 
 _Sorry Mate! I Didn't See You_
 
-When a driver fails to see you, despite you being clearly visible to them, or when they should have given way.
+When a driver fails to give way to you but then notices you and responds "sorry mate! I didn't see you" despite the fact that you were clearly visible.
