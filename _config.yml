@@ -2,7 +2,8 @@ title: London Bikecam Guide - 💂 🚴📷 📕
 description: >-
   Do you run or want to run a camera on your bicycle in Greater London?
   Read here for info, FAQs, and advice.
-url: "https://ldnbikecam.netlify.app"
+url: "https://sigwinch28.github.io"
+baseurl: "/bikecam"
 repository: sigwinch28/bikecam
 
 theme: minimal-mistakes-jekyll
@@ -10,14 +11,6 @@ minimal_mistakes_skin: contrast
 search: true
 search_full_content: true
 timezone: Europe/London
-
-# plugins:
-#   - github-pages
-#   - jekyll-feed
-#   - jekyll-include-cache
-#   - jekyll-remote-theme
-#   - jekyll-github-metadata
-#   - jemoji
 
 include:
   - _pages
